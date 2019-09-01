@@ -1,0 +1,17 @@
+export const BLACK = '#000000';
+export const COD_GRAY = '#1C1C1C';
+export const CORNFLOWER_BLUE = '#707070';
+export const FUSCOUS_GRAY = '#474643';
+export const FUZYY_WUZZY_BROWN = '#C4714B';
+export const GRAY = '#808080';
+export const GRAY_CHATEAU = '#9FA6A8';
+export const JAPONICA = '#D97D54';
+export const LOBLOLLY = '#C3CBCE';
+export const MERCURY = '#E3E3E3';
+export const NEPTUNE = '#87BCBF';
+export const SANDY_BROWN = '#f48e61';
+export const TRANSPARENT = 'transparent';
+export const TUNDORA = '#404040';
+export const WHITE = '#FFFFFF';
+export const WHISKEY = '#D09776';
+export const ATHENS_GRAY = '#E9EAEC';
